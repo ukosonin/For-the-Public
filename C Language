@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+  int numar;
+  for (numar = 0; numar <= 100; numar++) {
+  printf("%i\n", numar);
+  } 
+  return 0;
+
+}
